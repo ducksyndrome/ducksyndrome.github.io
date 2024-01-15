@@ -1,18 +1,18 @@
 
-title: Alprog's Burrow
+title: Синдром Утёнка
 author:
-  name: Alexander Tuzhik
-  email: alprog@hotmail.com
+  name: Author Name
+  email: syndrome@gmail.com
 description: >-
-  Alprog's personal homepage
+  Лендинг подкаста Синдром Утёнка
 baseurl: ""
-url: "https://alprog.github.io"
+url: "https://ducksyndrome.github.io"
 
 plugins:
   - jekyll-feed
 
 minima:
-  skin: solarized-dark
+  skin: classic
 
   social_links:
       twitter: alprog_
