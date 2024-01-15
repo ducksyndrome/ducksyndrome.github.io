@@ -9,6 +9,10 @@ layout: home
     <a class="page-link" href="/episodes">выпуски</a>
 </div>
 
-<div>
-    <img src="/icons/apple.png" alt="Apple Podcasts" width="64" height="64"> Apple Podcasts
+<div style="border-width:1">
+    <img src="/icons/apple.png" alt="Apple Podcasts" width="32" height="32"> Apple Podcasts
+</div>
+
+<div style="border-width:1">
+    <img src="/icons/yandex.png" alt="Яндекс Музыка" width="32" height="32"> Яндекс Музыка
 </div>
