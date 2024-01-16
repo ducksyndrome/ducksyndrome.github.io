@@ -27,18 +27,12 @@ layout: home
 
 <br>
 
-<div onclick="location.href='https://overcast.fm/itunes1725351363';" style="cursor: pointer;">
-    <img src="/icons/overcast.png" alt="Overcast" width="32" height="32"> Overcast
-</div>
-
-<br>
-
 <div onclick="location.href='https://pca.st/itunes/1725351363';" style="cursor: pointer;">
-    <img src="/icons/overcast.png" alt="Pocket Casts" width="32" height="32"> Pocket Casts
+    <img src="/icons/pocket.png" alt="Pocket Casts" width="32" height="32"> Pocket Casts
 </div>
 
 <br>
 
 <div onclick="location.href='https://www.youtube.com/@sindromutenka';" style="cursor: pointer;">
-    <img src="/icons/overcast.png" alt="Youtube" width="32" height="32"> Youtube
+    <img src="/icons/youtube.png" alt="Youtube" width="32" height="32"> Youtube
 </div>
