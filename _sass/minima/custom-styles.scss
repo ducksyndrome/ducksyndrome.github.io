@@ -1,2 +1,22 @@
 // Placeholder to allow defining custom styles that override everything else.
 // (Use `_sass/minima/custom-variables.scss` to override variable defaults)
+
+.platform-link {
+	display: block;
+	margin-bottom: 30px;
+}
+
+.platform-link:link, .platform-link:visited {
+	color:black;
+}
+
+.platform-link:hover, .platform-link:active {
+	color:#6421D4;
+}
+
+.platform-icon
+{
+	width: 32px;
+	height: 32px;
+	margin-right: 5px;
+}

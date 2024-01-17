@@ -3,8 +3,7 @@ title: Синдром Утёнка
 author:
   name: Author Name
   email: syndrome@gmail.com
-description: >-
-  Лендинг подкаста Синдром Утёнка
+description: Подкаст «Синдром Утёнка»
 baseurl: ""
 url: "https://ducksyndrome.github.io"
 
@@ -18,9 +17,6 @@ minima:
   skin: classic
 
   social_links:
-      twitter: alprog_
-      telegram: alprog
-      instagram: alprog_
-      github: alprog
-      linkedin: alprog
+      twitter: web_lain
+      telegram: web_lain
 
