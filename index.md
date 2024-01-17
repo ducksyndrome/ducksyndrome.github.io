@@ -7,7 +7,7 @@ layout: home
 </div>
 
 <div style="float:left; width:200px; margin-right:60px;">
-	<a class="platform-link" href="/" target="_blank">
+	<a class="platform-link" href="https://open.spotify.com/show/0VWmBpMCBbDzKxEl9Iuu6Q" target="_blank">
 		<img class="platform-icon" src="/icons/spotify.png">Spotify
 	</a>
 	<a class="platform-link" href="https://podcasts.apple.com/us/podcast/%D1%81%D0%B8%D0%BD%D0%B4%D1%80%D0%BE%D0%BC-%D1%83%D1%82%D1%91%D0%BD%D0%BA%D0%B0/id1725351363';" target="_blank">
