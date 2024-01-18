@@ -3,7 +3,7 @@
 
   <div class="wrapper">
 
-    <!--div class="footer-col-wrapper">
+    <div class="footer-col-wrapper">
       <div class="footer-col">
         <p class="feed-subscribe">
           <a href="{{ site.feed.path | default: 'feed.xml' | absolute_url }}">
@@ -12,7 +12,7 @@
             </svg><span>Subscribe</span>
           </a>
         </p>
-      {%- if site.author %}
+      {%- if site.author && false %}
         <ul class="contact-list">
           {% if site.author.name -%}
             <li class="p-name">{{ site.author.name | escape }}</li>
@@ -24,23 +24,9 @@
       {%- endif %}
       </div>
       <div class="footer-col">
-        <p>{{ site.description | escape }}</p>
+        <center><p>Подкаст «Синдром Утёнка»</p></center>
       </div>
-    </div-->    
-
-    <div>
-      <center>
-        <p class="feed-subscribe">
-          <a href="{{ site.feed.path | default: 'feed.xml' | absolute_url }}">
-            <svg class="svg-icon orange">
-              <use xlink:href="{{ 'assets/minima-social-icons.svg#rss' | relative_url }}"></use>
-            </svg><span>Subscribe</span>
-          </a>
-        </p>
-      </center>
-    </div>
-    
-	<center>Подкаст «Синдром Утёнка»</center>
+    </div>    
 
     <!div class="social-links">
       {%- include social.html -%}
