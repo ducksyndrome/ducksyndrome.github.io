@@ -1,5 +1,10 @@
 ---
 layout: home
+
+image:
+  path: /logo.png
+  height: 256
+  width: 256
 ---
 
 <div style="float:left; width:240px; margin-right:60px; margin-bottom:30px;" >

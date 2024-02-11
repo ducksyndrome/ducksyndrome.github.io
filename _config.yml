@@ -10,6 +10,13 @@ disqus:
 plugins:
   - jekyll-feed
 
+defaults:
+  -
+    image:
+      path: /logo.png
+      height: 256
+      width: 256
+
 minima:
   skin: classic
 
