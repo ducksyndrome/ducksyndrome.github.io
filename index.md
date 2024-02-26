@@ -37,7 +37,7 @@ image:
 		<img class="platform-icon" src="/icons/castbox.png">Castbox
 	</a>
 
-	<a class="platform-link" href="{{ site.feed.path | default: 'feed.xml' | absolute_url }}">
+	<a class="platform-link" href="https://cloud.mave.digital/52014">
 		<img class="platform-icon" src="/icons/rss.png">RSS
 	</a>
 </div>
